@@ -1,0 +1,2 @@
+Para esta clase se dio una pagina con tutoriales con tutoriales en habilidades coputacionales para invstigación
+computacional [[https://swcarpentry.github.io/git-novice/12-citation/index.html][tutorials]]
